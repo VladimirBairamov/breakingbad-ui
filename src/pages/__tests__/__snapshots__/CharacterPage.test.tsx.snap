@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CharacterPage must render data 1`] = `
+<div
+  className="max-w-xs mx-auto mt-16"
+>
+  <div
+    className="bg-white shadow-xl rounded-lg py-3"
+  >
+    <div
+      className="photo-wrapper p-2"
+    >
+      <img
+        alt="Heisenberg"
+        className="w-32 h-32 rounded-full mx-auto object-cover"
+        src="https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_walter-white-lg.jpg"
+      />
+    </div>
+    <div
+      className="p-2"
+    >
+      <h3
+        className="text-center text-xl text-gray-900 font-medium leading-8"
+      >
+        Walter White
+      </h3>
+      <div
+        className="text-center text-gray-400 text-xs font-semibold"
+      >
+        <p>
+          Presumed dead
+        </p>
+      </div>
+      <table
+        className="text-xs my-3"
+      >
+        <tbody>
+          <tr>
+            <td
+              className="px-2 py-2 text-gray-500 font-semibold"
+            >
+              Birth
+            </td>
+            <td
+              className="px-2 py-2"
+            >
+              09-07-1958
+            </td>
+          </tr>
+          <tr>
+            <td
+              className="px-2 py-2 text-gray-500 font-semibold"
+            >
+              Nickname
+            </td>
+            <td
+              className="px-2 py-2"
+            >
+              Heisenberg
+            </td>
+          </tr>
+          <tr>
+            <td
+              className="px-2 py-2 text-gray-500 font-semibold"
+            >
+              Occupations
+            </td>
+            <td
+              className="px-2 py-2"
+            >
+              High School Chemistry Teacher, Meth King Pin
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <div
+        className="text-center my-3"
+      >
+        <a
+          className="text-xs text-indigo-500 hover:underline hover:text-indigo-600 font-medium"
+          onClick={[Function]}
+        >
+          Open Episodes
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`CharacterPage must render loading 1`] = `"Loading..."`;

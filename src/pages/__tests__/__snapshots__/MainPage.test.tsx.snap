@@ -1,0 +1,147 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainPage must render data 1`] = `
+<main
+  className="max-w-2xl mx-auto mt-16"
+>
+  <div
+    className="flex justify-between mt-8 mb-2"
+  >
+    <h2
+      className="text-2xl font-bold leading-7 text-gray-900"
+    >
+      Episodes
+    </h2>
+    <nav
+      className="flex"
+    >
+      <div
+        className="cursor-pointer border-b-2"
+        onClick={[Function]}
+      >
+        Breaking Bad
+      </div>
+      <div
+        className="cursor-pointer ml-8"
+        onClick={[Function]}
+      >
+        Better Call Saul
+      </div>
+    </nav>
+  </div>
+  <h3
+    className="text-1xl font-bold leading-7 text-gray-900"
+  >
+    Seasons: 
+  </h3>
+  <button
+    className="py-1 px-4 rounded my-2 mx-1 bg-blue-500 hover:bg-blue-700 text-white"
+    onClick={[Function]}
+  >
+    1
+  </button>
+  <div
+    className="flex flex-col"
+  >
+    <div
+      className="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8"
+    >
+      <div
+        className="py-2 align-middle inline-block min-w-full sm:px-6 lg:px-8"
+      >
+        <div
+          className="shadow overflow-hidden border-b border-gray-200 sm:rounded-lg"
+        >
+          <table
+            className="min-w-full divide-y divide-gray-200"
+          >
+            <thead
+              className="bg-gray-50"
+            >
+              <tr>
+                <th
+                  className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider"
+                  scope="col"
+                >
+                  Episode #
+                </th>
+                <th
+                  className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider"
+                  scope="col"
+                >
+                  Title
+                </th>
+                <th
+                  className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider"
+                  scope="col"
+                >
+                  Air Date
+                </th>
+              </tr>
+            </thead>
+            <tbody
+              className="bg-white divide-y divide-gray-200"
+            >
+              <tr
+                className="cursor-pointer"
+                onClick={[Function]}
+              >
+                <td
+                  className="px-6 py-4 whitespace-nowrap text-sm text-gray-500"
+                >
+                  5
+                </td>
+                <td
+                  className="px-6 py-4 whitespace-nowrap text-sm text-gray-500"
+                >
+                  Alpine Shepherd Boy
+                </td>
+                <td
+                  className="px-6 py-4 whitespace-nowrap text-sm text-gray-500"
+                >
+                  03-02-2015
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+`;
+
+exports[`MainPage must render loading 1`] = `
+<main
+  className="max-w-2xl mx-auto mt-16"
+>
+  <div
+    className="flex justify-between mt-8 mb-2"
+  >
+    <h2
+      className="text-2xl font-bold leading-7 text-gray-900"
+    >
+      Episodes
+    </h2>
+    <nav
+      className="flex"
+    >
+      <div
+        className="cursor-pointer border-b-2"
+        onClick={[Function]}
+      >
+        Breaking Bad
+      </div>
+      <div
+        className="cursor-pointer ml-8"
+        onClick={[Function]}
+      >
+        Better Call Saul
+      </div>
+    </nav>
+  </div>
+  <h3>
+    Loading...
+  </h3>
+</main>
+`;

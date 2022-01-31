@@ -1,0 +1,270 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EpisodePage must render data 1`] = `
+<div
+  className="bg-white shadow overflow-hidden sm:rounded-lg max-w-2xl mx-auto mt-16"
+>
+  <div
+    className="px-4 py-2 flex justify-between"
+  >
+    <h3
+      className="text-lg leading-6 font-medium text-gray-900 mt-3"
+    >
+      Detailed information
+    </h3>
+    <button
+      className="py-1 px-4 rounded my-2 mx-1 bg-gray-200 hover:bg-gray-400 text-black"
+      onClick={[Function]}
+    >
+      Go Back
+    </button>
+  </div>
+  <div
+    className="border-t border-gray-200"
+  >
+    <dl>
+      <div
+        className="px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6 bg-white"
+      >
+        <dt
+          className="text-sm font-medium text-gray-500"
+        >
+          Air date
+        </dt>
+        <dd
+          className="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2"
+        >
+          03-02-2015
+        </dd>
+      </div>
+      <div
+        className="px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6 bg-gray-50"
+      >
+        <dt
+          className="text-sm font-medium text-gray-500"
+        >
+          Episode
+        </dt>
+        <dd
+          className="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2"
+        >
+          5
+        </dd>
+      </div>
+      <div
+        className="px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6 bg-white"
+      >
+        <dt
+          className="text-sm font-medium text-gray-500"
+        >
+          Episode id
+        </dt>
+        <dd
+          className="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2"
+        >
+          67
+        </dd>
+      </div>
+      <div
+        className="px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6 bg-gray-50"
+      >
+        <dt
+          className="text-sm font-medium text-gray-500"
+        >
+          Season
+        </dt>
+        <dd
+          className="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2"
+        >
+          1
+        </dd>
+      </div>
+      <div
+        className="px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6 bg-white"
+      >
+        <dt
+          className="text-sm font-medium text-gray-500"
+        >
+          Series
+        </dt>
+        <dd
+          className="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2"
+        >
+          Better Call Saul
+        </dd>
+      </div>
+      <div
+        className="px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6 bg-gray-50"
+      >
+        <dt
+          className="text-sm font-medium text-gray-500"
+        >
+          Title
+        </dt>
+        <dd
+          className="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2"
+        >
+          Alpine Shepherd Boy
+        </dd>
+      </div>
+      <div
+        className="bg-white px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6"
+      >
+        <dt
+          className="text-sm font-medium text-gray-500"
+        >
+          Characters
+        </dt>
+        <dd
+          className="mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2"
+        >
+          <ul
+            className="border border-gray-200 rounded-md divide-y divide-gray-200"
+          >
+            <li
+              className="pl-3 pr-4 py-3 flex items-center justify-between text-sm"
+            >
+              <div
+                className="w-0 flex-1 flex items-center"
+              >
+                <span
+                  className="ml-2 flex-1 w-0 truncate"
+                >
+                  Jimmy McGill
+                </span>
+              </div>
+              <div
+                className="ml-4 flex-shrink-0"
+              >
+                <a
+                  className="font-medium text-indigo-600 hover:text-indigo-500"
+                  onClick={[Function]}
+                >
+                  Open
+                </a>
+              </div>
+            </li>
+            <li
+              className="pl-3 pr-4 py-3 flex items-center justify-between text-sm"
+            >
+              <div
+                className="w-0 flex-1 flex items-center"
+              >
+                <span
+                  className="ml-2 flex-1 w-0 truncate"
+                >
+                  Mike Erhmantraut
+                </span>
+              </div>
+              <div
+                className="ml-4 flex-shrink-0"
+              >
+                <a
+                  className="font-medium text-indigo-600 hover:text-indigo-500"
+                  onClick={[Function]}
+                >
+                  Open
+                </a>
+              </div>
+            </li>
+            <li
+              className="pl-3 pr-4 py-3 flex items-center justify-between text-sm"
+            >
+              <div
+                className="w-0 flex-1 flex items-center"
+              >
+                <span
+                  className="ml-2 flex-1 w-0 truncate"
+                >
+                  Kim Wexler
+                </span>
+              </div>
+              <div
+                className="ml-4 flex-shrink-0"
+              >
+                <a
+                  className="font-medium text-indigo-600 hover:text-indigo-500"
+                  onClick={[Function]}
+                >
+                  Open
+                </a>
+              </div>
+            </li>
+            <li
+              className="pl-3 pr-4 py-3 flex items-center justify-between text-sm"
+            >
+              <div
+                className="w-0 flex-1 flex items-center"
+              >
+                <span
+                  className="ml-2 flex-1 w-0 truncate"
+                >
+                  Howard Hamlin
+                </span>
+              </div>
+              <div
+                className="ml-4 flex-shrink-0"
+              >
+                <a
+                  className="font-medium text-indigo-600 hover:text-indigo-500"
+                  onClick={[Function]}
+                >
+                  Open
+                </a>
+              </div>
+            </li>
+            <li
+              className="pl-3 pr-4 py-3 flex items-center justify-between text-sm"
+            >
+              <div
+                className="w-0 flex-1 flex items-center"
+              >
+                <span
+                  className="ml-2 flex-1 w-0 truncate"
+                >
+                  Chuck McGill
+                </span>
+              </div>
+              <div
+                className="ml-4 flex-shrink-0"
+              >
+                <a
+                  className="font-medium text-indigo-600 hover:text-indigo-500"
+                  onClick={[Function]}
+                >
+                  Open
+                </a>
+              </div>
+            </li>
+            <li
+              className="pl-3 pr-4 py-3 flex items-center justify-between text-sm"
+            >
+              <div
+                className="w-0 flex-1 flex items-center"
+              >
+                <span
+                  className="ml-2 flex-1 w-0 truncate"
+                >
+                  Nacho Varga
+                </span>
+              </div>
+              <div
+                className="ml-4 flex-shrink-0"
+              >
+                <a
+                  className="font-medium text-indigo-600 hover:text-indigo-500"
+                  onClick={[Function]}
+                >
+                  Open
+                </a>
+              </div>
+            </li>
+          </ul>
+        </dd>
+      </div>
+    </dl>
+  </div>
+</div>
+`;
+
+exports[`EpisodePage must render loading 1`] = `"Loading..."`;
